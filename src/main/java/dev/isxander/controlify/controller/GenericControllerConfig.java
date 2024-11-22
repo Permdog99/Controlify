@@ -23,4 +23,6 @@ public class GenericControllerConfig implements ConfigClass {
     public boolean showOnScreenKeyboard = true;
 
     public boolean dontShowControllerSubmission = false;
+
+    public boolean isLCE = false;
 }
